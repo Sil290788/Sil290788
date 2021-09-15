@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sil290788
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sil290788/Sil290788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Disponível ao mercado de trabalho
+📚 Graduação em Fotografia e Marketing
+📚 Estudando .Net/ C#/ Python
+🌄 Apaixonada pela NATUREZA
+👽 Uma eterna CURIOSA
